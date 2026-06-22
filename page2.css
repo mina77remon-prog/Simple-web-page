@@ -1,0 +1,46 @@
+table, tr, th, td, caption {
+    border: 5px solid #000000;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+    text-align: center;
+    abbr[title] 
+{
+  text-decoration: underline; 
+  text-decoration-style: solid;
+  cursor: help;
+}
+}
+body 
+{
+  font-family: Arial;
+  background-color: #eee;
+}
+
+h1, h2 
+{
+  color: black;
+}
+
+nav ul 
+{
+  list-style-type: none;
+}
+
+nav li 
+{
+  display: inline;
+  margin-right: 10px;
+}
+
+section 
+{
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+img 
+{
+  width: 400px;
+}

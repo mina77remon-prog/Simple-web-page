@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+
+   <html lang="en">
+
+     <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="Mina Remon"> 
+        <meta name="Description" content="My first HTML5 page">
+        <link rel="icon" href="sot/icons8-html-5-48.png" type="image/x-icon">
+        <link rel="stylesheet" href="main.css" type="text/css">
+        
+          <title>
+             Just Me : Mina
+          </title>
+
+     </head>
+
+       <body> 
+          
+         <h1> Welcome to My HTML5 Page </h1>
+          <nav>
+            <ul>
+              <li><a href="#My Schedule"> My Schedule </a></li>
+              <li><a href="#Download My Code"> Download My Code </a></li>
+              <li><a href="page1.html"> Back </a></li>
+            </ul>
+          </nav>
+              
+        <section id="My Schedule">
+           
+             <Table>
+                
+                <caption><h2> My Weekly Schedule </h2></caption>
+                 
+                   <tr>
+                     <th> Day </th>
+                     <th> 9:00 - 10:30 </th>
+                     <th> 10:30 - 12:00 </th>
+                     <th> 12:00 - 1:30 </th>
+                     <th> 1:30 - 3:00 </th>
+                   </tr>
+
+                   <tr>
+                     <th> Sunday </th>
+                     <td ><abbr title="D/Hatem Zahran"><a> General English </a> </abbr></td>
+                     <td>  </td>
+                     <td>  </td>
+                     <td>   </td>
+                   </tr>
+
+                   <tr>
+                     <th> Monday </th>
+                     <td>  <abbr title="D/Hisham"><a> Human rights and anticorruption </a> </abbr> </td>
+                     <td> <abbr title="D/Hisham"><a> Computer laws </a> </abbr> </td>
+                     <td>  </td>
+                     <td> <abbr title="D/Karem Ahmed"><a> Introduction to CS </a> </abbr></td>
+                   </tr>
+
+                   <tr>
+                     <th> Tuesday </th>
+                     <td> <abbr title="D/Osama Mohamed"><a> Mathematics 1 </a> </abbr></td>
+                     <td>   </td>
+                     <td>  </td>
+                     <td> <abbr title="D/Mariam Mohammed"><a></a> Introduction to CS (section) </a> </abbr></td>
+                   </tr>
+
+                   <tr>
+                     <th> Wednesday </th>
+                     <td>  <abbr title="D/Mona"><a> Electronics </a> </abbr> </td>
+                     <td> <abbr title="D/Mohammed Taha"><a> Physics </a> </abbr> </td>
+                     <td> <abbr title="D/Reem Gamal"><a> Mathematics 1 (section) </a> </abbr> </td>
+                     <td>  </td>
+                   </tr>
+                     <tr>
+                        <th> Thursday </th>
+                        <td colspan="4"><abbr title="ICPC"><a> C++  </a> </abbr></td>
+                    </tr>
+
+             </Table>
+        </section>
+
+                   <hr>
+
+        <section id="Download My Code">
+                 
+                <h2> Download My Code </h2>
+                 <p>
+                   You can download the HTML and CSS code files for this page from the following links:
+                   <br><br>
+                   <ul>
+                       <li><a href="page1.txt" download> Download page1.text </a></li>
+                       <li><a href="page2.txt" download> Download page2.txt </a></li>
+                       <li><a href="css.txt" download> Download main.css </a></li>
+                   </ul>
+                 </p>
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       </body>
+    </html>
